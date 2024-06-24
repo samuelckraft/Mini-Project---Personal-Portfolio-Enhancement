@@ -65,10 +65,22 @@ textarea {
 a {
     color: black;
     text-decoration: none;
-    transition: color .5s ease;
+    transition: all .5s ease;
 }
 
 a:active {
     color: lightskyblue;
     text-decoration: underline;
+}
+
+@media screen and (max-width: 600px) {
+    a {
+        text-decoration: underline;
+        color: aqua;
+        font-size: 50px;
+    }
+
+    form {
+        background-color: darkgray;
+    }
 }
