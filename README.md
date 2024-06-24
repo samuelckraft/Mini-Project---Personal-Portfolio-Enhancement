@@ -1,0 +1,1 @@
+Every task has it's own folder except for 8 and 9 because I had already used those principles in previous tasks. Please let me know if there is any area I need to improve upon (besides just aesthetics like color choice)
