@@ -1,0 +1,14 @@
+table {
+    position: relative; bottom: 25px; top: 25px;
+}
+
+section {
+    position: fixed; right: 300px; bottom: 10px;
+    border: solid 2px black;
+    border-radius: 8px;
+    padding: 30px;
+}
+
+.list {
+    position: absolute; right: 50px;
+}

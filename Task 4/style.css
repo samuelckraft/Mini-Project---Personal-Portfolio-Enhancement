@@ -1,0 +1,30 @@
+* {
+    background: linear-gradient(to right, #0db2b8, #1fc577);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+p {
+    font-size: 30px;
+}
+
+a {
+    text-decoration: none;
+    font-size: 25px;
+    color: black;
+}
+
+button {
+    transition: background-color .3s ease;
+    border-radius: 100%;
+    padding: 10px;
+}
+
+button:hover {
+    background-color: rgb(100, 128, 255);
+}
+
